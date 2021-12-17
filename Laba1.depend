@@ -1,0 +1,572 @@
+# depslib dependency file v1.0
+1634886449 source:c:\users\svarshik\codeandblocks\labba\laba1\laba1.cpp
+	<iostream>
+	"xlsxwriter.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter.h
+	"xlsxwriter/workbook.h"
+	"xlsxwriter/worksheet.h"
+	"xlsxwriter/format.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\workbook.h
+	<stdint.h>
+	<stdio.h>
+	<errno.h>
+	"worksheet.h"
+	"chartsheet.h"
+	"chart.h"
+	"shared_strings.h"
+	"hash_table.h"
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\worksheet.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"shared_strings.h"
+	"chart.h"
+	"drawing.h"
+	"common.h"
+	"format.h"
+	"styles.h"
+	"utility.h"
+	"relationships.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\shared_strings.h
+	<string.h>
+	<stdint.h>
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\common.h
+	<time.h>
+	"third_party/queue.h"
+	"third_party/tree.h"
+	<R.h>
+	<stdarg.h>
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\queue.h
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\tree.h
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\chart.h
+	<stdint.h>
+	<string.h>
+	"common.h"
+	"format.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\format.h
+	<stdint.h>
+	<string.h>
+	"hash_table.h"
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\hash_table.h
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\drawing.h
+	<stdint.h>
+	<string.h>
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\styles.h
+	<stdint.h>
+	<ctype.h>
+	"format.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\utility.h
+	<stdint.h>
+	<strings.h>
+	"common.h"
+	"xmlwriter.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\xmlwriter.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\relationships.h
+	<stdint.h>
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\chartsheet.h
+	<stdint.h>
+	"common.h"
+	"worksheet.h"
+	"drawing.h"
+	"utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\app.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/app.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\app.h
+	<stdint.h>
+	<string.h>
+	"workbook.h"
+	"common.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\chart.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/chart.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\chartsheet.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/chartsheet.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\comment.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/comment.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\comment.h
+	<stdint.h>
+	"common.h"
+	"worksheet.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\content_types.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/content_types.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\content_types.h
+	<stdint.h>
+	<string.h>
+	"common.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\core.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/core.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\core.h
+	<stdint.h>
+	"workbook.h"
+	"common.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\custom.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/custom.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\custom.h
+	<stdint.h>
+	"common.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\drawing.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/common.h"
+	"xlsxwriter/drawing.h"
+	"xlsxwriter/worksheet.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\format.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/format.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\hash_table.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"xlsxwriter/hash_table.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\metadata.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/metadata.h"
+	"xlsxwriter/utility.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\metadata.h
+	<stdint.h>
+	"common.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\packager.c
+	<zlib.h>
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/packager.h"
+	"xlsxwriter/hash_table.h"
+	"xlsxwriter/utility.h"
+	<windows.h>
+	"minizip/iowin32.h"
+	"../third_party/minizip/iowin32.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\packager.h
+	<stdint.h>
+	"minizip/zip.h"
+	"third_party/zip.h"
+	"common.h"
+	"workbook.h"
+	"worksheet.h"
+	"shared_strings.h"
+	"app.h"
+	"core.h"
+	"custom.h"
+	"table.h"
+	"theme.h"
+	"styles.h"
+	"format.h"
+	"content_types.h"
+	"relationships.h"
+	"vml.h"
+	"comment.h"
+	"metadata.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\zip.h
+	"zlib.h"
+	"ioapi.h"
+	"bzlib.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\ioapi.h
+	<stdio.h>
+	<stdlib.h>
+	"zlib.h"
+	<stdint.h>
+	"mz64conf.h"
+	"stdint.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\table.h
+	<stdint.h>
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\theme.h
+	<stdint.h>
+	"common.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\vml.h
+	<stdint.h>
+	"common.h"
+	"worksheet.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\third_party\minizip\iowin32.h
+	<windows.h>
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\relationships.c
+	<string.h>
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/relationships.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\shared_strings.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/shared_strings.h"
+	"xlsxwriter/utility.h"
+	<ctype.h>
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\styles.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/styles.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\table.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/worksheet.h"
+	"xlsxwriter/table.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\theme.c
+	<string.h>
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/theme.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\utility.c
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdlib.h>
+	"xlsxwriter.h"
+	"xlsxwriter/common.h"
+	"xlsxwriter/third_party/tmpfileplus.h"
+	"xlsxwriter/third_party/emyg_dtoa.h"
+	<windows.h>
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\tmpfileplus.h
+	<stdio.h>
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\emyg_dtoa.h
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\vml.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/vml.h"
+	"xlsxwriter/utility.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\workbook.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/workbook.h"
+	"xlsxwriter/utility.h"
+	"xlsxwriter/packager.h"
+	"xlsxwriter/hash_table.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\worksheet.c
+	"xlsxwriter/xmlwriter.h"
+	"xlsxwriter/worksheet.h"
+	"xlsxwriter/format.h"
+	"xlsxwriter/utility.h"
+	<openssl/md5.h>
+	"xlsxwriter/third_party/md5.h"
+
+1633787076 c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\include\xlsxwriter\third_party\md5.h
+	<openssl/md5.h>
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\src\xmlwriter.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"xlsxwriter/xmlwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\cpp\test_compilation.cpp
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_array_formula01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_array_formula02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_array_formula03.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_array_formula04.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter00.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter03.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter04.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter05.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter06.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter07.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter08.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter09.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter10.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_autofilter11.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background03.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background04.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background05.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background06.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background07.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_background52.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button03.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button04.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button05.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button06.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button07.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button08.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button09.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button10.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button11.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button12.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button13.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button14.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_button15.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_area01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_area02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_area03.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_area05.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_area06.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis01.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis02.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis04.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis05.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis06.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis07.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis08.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis09.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis10.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis11.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis12.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis13.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis15.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis17.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis18.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis19.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis20.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis21.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis22.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis23.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis24.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis25.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis26.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis27.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis28.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis29.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis30.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis31.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis32.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis33.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis34.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis35.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis36.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis37.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis38.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis39.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis40.c
+	"xlsxwriter.h"
+
+1633787076 source:c:\users\svarshik\codeandblocks\labba\laba1\libxlsxwriter-release_1.1.4\test\functional\src\test_chart_axis41.c
+	"xlsxwriter.h"
+
